@@ -1,0 +1,32 @@
+{
+  "name": "gh-buibuibui-tg",
+  "version": "1.0.0",
+  "description": "Uses Github Webhook and Vercel's Serverless Api to Send Updates to Telegram chat",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesmore/gh-buibuibui-tg.git"
+  },
+  "keywords": [
+    "webhook",
+    "github",
+    "vercel",
+    "telegram"
+  ],
+  "author": {
+    "name": "Juice",
+    "url": "https://github.com/yesmore"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/yesmore/gh-buibuibui-tg/issues"
+  },
+  "homepage": "https://github.com/yesmore/gh-buibuibui-tg#readme",
+  "dependencies": {
+    "axios": "^0.21.2",
+    "crypto": "^1.0.1",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.57.6"
+  }
+}
