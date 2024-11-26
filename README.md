@@ -17,7 +17,7 @@
 
 借助 Github 的 Webhooks、Vercel's Serverless API 和 Telegram Bot，连接 Github 和 Telegram，在 Telegram chat 中接收仓库的消息。
 
-> 效果：你给仓库 [yesmore/aka.js](https://github.com/yesmore/aka.js) 点了 star，你的 telegram 频道/群组将会收到一个包含各种元数据(可选)的点赞信息, 其他 Github 事件同理。
+> 效果：你给仓库 [oiov/wr.do](https://github.com/oiov/wr.do) 点了 star，你的 telegram 频道/群组将会收到一个包含各种元数据(可选)的点赞信息, 其他 Github 事件同理。
 
 <table style="border:none">
 <tr>
